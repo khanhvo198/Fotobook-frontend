@@ -36,7 +36,7 @@ p {
 }
 
 
-form div.form-group {
+.header__middle form div.form-group {
     margin: 0.3rem 0 0.3rem 0;
 }
 
@@ -126,7 +126,6 @@ form div.form-group {
     justify-content: center;
     align-items: center;
 }
-
 
 
 .wall-account form button {
